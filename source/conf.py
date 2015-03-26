@@ -37,7 +37,7 @@ metadata = {
         'server-scheme': 'https',
         'server-host': 'espaces.edu.au',
         'server-port': 443,
-        'auth': 'aaf',
+        'auth': ['aaf', 'local', 'self-registration'],
         'security': 'mixed'
     }
 }
