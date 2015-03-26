@@ -19,12 +19,12 @@ overview, and information about site management.
 
    introduction
    custom-espaces
-   gettingstarted-login
+   getting-started
    content-creation
    content-management
    content-special
-   layout-customisation
-   interacting
+   layout-and-customisation
+   interacting-with-content
    faq
    glossary
 
