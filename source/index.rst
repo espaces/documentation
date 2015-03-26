@@ -18,6 +18,7 @@ overview, and information about site management.
    :maxdepth: 2
 
    introduction
+   custom-espaces
    getting-started
    content-creation
    content-management
