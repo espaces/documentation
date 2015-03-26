@@ -240,8 +240,8 @@ The recommended client is Cyberduck.
       :align: right
 
    #. Select ``WebDAV (HTTP/SSL)`` from the top drop-down menu.
-   #. *Server*: |project-server-host|
-   #. *Port*: |project-server-port|
+   #. *Server*: ``|project-server-host|``
+   #. *Port*: ``|project-server-port|``
    #. Uncheck ``Anonymous Login``
    #. *Username*: see :ref:`webdav-username-password`.
    #. *Password*: see :ref:`webdav-username-password`.
