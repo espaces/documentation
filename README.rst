@@ -1,9 +1,9 @@
 User documentation
 ==================
 
-End-user documentation for eResearch Centre systems powered by Plone.
+End-user documentation for eSpaces, powered by Plone.
 
-Documentation is available at http://eresearch.rtfd.org, produced after each
+Documentation is available at http://docs.espaces.edu.au, produced after each
 push to this repository.
 
 About this documentation
