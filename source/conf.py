@@ -30,12 +30,12 @@ def setup(app):
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 metadata = {
     'project': {
-        'name': u'eResearch Web Services',
-        'shortname': 'eResearchWebServicesUserDocumentation',
+        'name': u'eSpaces',
+        'shortname': 'eSpacesUserDocumentation',
         'team': u'eResearch Centre, James Cook University',
-        'url': 'https://eresearch.jcu.edu.au',
+        'url': 'https://espaces.edu.au',
         'server-scheme': 'https',
-        'server-host': 'eresearch.jcu.edu.au',
+        'server-host': 'espaces.edu.au',
         'server-port': 443,
         'auth': ['aaf', 'local', 'self-registration'],
         'security': 'mixed'
@@ -49,8 +49,8 @@ tags.add('forms')
 tags.add('folder_sorting')
 tags.add('files_images_have_state')
 tags.add('user_portlet_management')
-tags.add('group_management')
-#tags.add('bootstrap_theme')
+#tags.add('group-management')
+tags.add('bootstrap_theme')
 tags.add('admin')
 
 
