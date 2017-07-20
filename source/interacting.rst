@@ -144,14 +144,14 @@ Obtaining your username and password
 ------------------------------------
 
 
-.. ifconfig:: metadata['project']['auth'] != 'aaf'
+.. ifconfig:: 'aaf' not in metadata['project']['auth']
 
    The credentials for transferring files are the same as those that you use
    to log into |project-name|.  If you have forgotten your username or
    password, you will need to obtain these before proceeding.
 
 
-.. ifconfig:: metadata['project']['auth'] == 'aaf'
+.. ifconfig:: 'aaf' in metadata['project']['auth']
 
     On |project-name|, authentication occurs either with existing
     research institution credentials using Single-Sign-On, or with local
