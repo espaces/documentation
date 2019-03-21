@@ -1,5 +1,5 @@
-User documentation
-==================
+eSpaces User documentation
+==========================
 
 End-user documentation for eSpaces, powered by Plone.
 
